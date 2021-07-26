@@ -1,5 +1,4 @@
 # Speech Emotion Recognition System
-Muriel Kosaka
 
 ## Project Overview
 
